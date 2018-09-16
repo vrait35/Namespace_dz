@@ -1,0 +1,6 @@
+C:\Users\anuar\source\repos\Namespace\LibraryClasses\bin\Debug\LibraryClasses.dll
+C:\Users\anuar\source\repos\Namespace\LibraryClasses\bin\Debug\LibraryClasses.pdb
+C:\Users\anuar\source\repos\Namespace\LibraryClasses\obj\Debug\LibraryClasses.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\Namespace\LibraryClasses\obj\Debug\LibraryClasses.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\Namespace\LibraryClasses\obj\Debug\LibraryClasses.dll
+C:\Users\anuar\source\repos\Namespace\LibraryClasses\obj\Debug\LibraryClasses.pdb

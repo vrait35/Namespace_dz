@@ -1,0 +1,9 @@
+C:\Users\anuar\source\repos\Namespace\Namespace\bin\Debug\Namespace.exe.config
+C:\Users\anuar\source\repos\Namespace\Namespace\bin\Debug\Namespace.exe
+C:\Users\anuar\source\repos\Namespace\Namespace\bin\Debug\Namespace.pdb
+C:\Users\anuar\source\repos\Namespace\Namespace\bin\Debug\LibraryClasses.dll
+C:\Users\anuar\source\repos\Namespace\Namespace\bin\Debug\LibraryClasses.pdb
+C:\Users\anuar\source\repos\Namespace\Namespace\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\Namespace\Namespace\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\Namespace\Namespace\obj\Debug\Namespace.exe
+C:\Users\anuar\source\repos\Namespace\Namespace\obj\Debug\Namespace.pdb
